@@ -1,60 +1,82 @@
-# Hello, I'm Holdyn Morrow
-<www.linkedin.com/in/holdyn-morrow-5b4b8841b><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hi, I'm Holdyn Morrow
 
-[Brief Introduction - Remove this afterwards]
+##  About Me
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+I am an aspiring cybersecurity professional currently pursuing the Google Cybersecurity Certificate. I am passionate about protecting people and organizations from cyber threats while continuously expanding my knowledge of information security, networking, and risk management.
 
-## Objective
-[Provide Objective - Remove this afterwards]]
+---
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+## Professional Statement
+
+I am committed to building a strong foundation in cybersecurity through hands-on labs, projects, and continuous learning. My goal is to develop the technical and analytical skills necessary to identify security risks, respond to threats, and help organizations maintain secure systems. I value integrity, ethical decision-making, and lifelong learning.
+
+---
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+- Network Security
+- Linux
+- SQL
+- Python (Learning)
+- Risk Management
+- Security Auditing
+- Incident Response
+- Security Frameworks (NIST)
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
+---
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+- Google Cybersecurity Certificate *(In Progress)*
+- CompTIA Security+ *(Planned)*
+
+---
+
+## Portfolio Projects
+
+### Security Audit
+- Conducted a security audit using the NIST Cybersecurity Framework.
+- Identified risks and recommended security improvements.
+
+### Linux File Permissions
+- Managed users, groups, and file permissions using Linux commands.
+
+### SQL Investigation
+- Queried databases to investigate security incidents.
+
+### Python Automation *(Coming Soon)*
+- Automating security-related tasks using Python.
+
+---
+
+## Currently Learning
+
+- Google Cybersecurity Certificate
+- Linux Administration
+- Networking Fundamentals
+- Python
+- Security Operations (SOC)
+
+---
+
+## Career Goals
+
+- Earn CompTIA Security+
+- Build a strong cybersecurity portfolio
+- Gain hands-on SOC experience
+- Become a Security Analyst
+- Continue learning ethical hacking
+
+---
+
+## Connect With Me
+
+GitHub: https://github.com/YourUsername
+
+LinkedIn: *(Coming Soon)*
+
+Email: your.email@example.com
+
+---
+
+⭐ Thanks for visiting my portfolio!
