@@ -79,4 +79,4 @@ Email: your.email@example.com
 
 ---
 
-⭐ Thanks for visiting my portfolio!
+Thanks for visiting my portfolio!
